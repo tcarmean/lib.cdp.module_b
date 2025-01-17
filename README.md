@@ -17,3 +17,8 @@ conan install ..
 cmake ..
 cmake --build .
 ./main```
+
+
+### Packaging
+cd to the top folder
+conan create .
