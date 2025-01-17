@@ -7,4 +7,4 @@ set(CMAKE_C_STANDARD 99)
 find_package(CMakeDeps)
 find_package(CMakeToolchain)
 
-add_library(module_a src/module_b.c)
+add_library(module_b src/module_b.c)
