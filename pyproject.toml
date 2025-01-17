@@ -1,5 +1,5 @@
 [project]
-name = "lib-cdp-module-a"
+name = "lib-cdp-module-b"
 version = "0.1.0"
 description = "Hello World Conan Package"
 authors = [
