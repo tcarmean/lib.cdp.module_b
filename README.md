@@ -1,4 +1,4 @@
-# lib.cdp.module_a
+# lib.cdp.module_b
 
 ## Build Instructions
 
