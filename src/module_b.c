@@ -2,5 +2,5 @@
 #include <stdio.h>
 
 void hello_world() {
-    printf("Hello from Module A\n");
+    printf("Hello from Module B\n");
 }
