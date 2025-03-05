@@ -8,6 +8,6 @@
   #define MODULEB_EXPORT
 #endif
 
-void MODULEA_EXPORT hello_b();
+void MODULEB_EXPORT hello_b();
 
 #endif // MODULE_B_H
