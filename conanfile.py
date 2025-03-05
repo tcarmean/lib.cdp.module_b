@@ -10,6 +10,7 @@ class ModuleBConan(ConanFile):
     description = "A simple C library"
     settings = "os", "compiler", "build_type", "arch"
     exports_sources = "CMakeLists.txt", "src/*", "include/*"
+    package_type = "shared-library"
 
     def layout(self):
         cmake_layout(self)
